@@ -19,9 +19,10 @@ def login():
         if opc == 1:
             usu = str(input("Digite seu nome de usuário: "))
             sen = str(input("Digite sua senha: "))
-            if usu == 'otavio_rabelo' and sen == 'Otavio-0408':
+            #Aqui, devem ser definidos o usuario e a senha desejados:
+            if usu == 'usuario' and sen == 'senha':
                 var = 1
-                print("\nBem vindo, Otávio. Aguarde 4 segundos.\n")
+                print("\nBem vindo, usuario. Aguarde 4 segundos.\n")
                 sleep(4)
                 break
             else:
