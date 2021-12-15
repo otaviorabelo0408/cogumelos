@@ -4,3 +4,4 @@ A primeira linha de entrada de dados consiste em um número inteiro, representan
 Ao fim do algoritmo, é impresso um gráfico com as porcentagens de cogumelos classificados como comestíveis ou venenosos.
 Os atributos dos cogumelos devem ser descritos de acordo como apresentado no site <https://www.kaggle.com/uciml/mushroom-classification>, a fim de que o algoritmo funcione corretamente.
 Será deixado um arquivo de teste para que o algoritmo possa ser utilizado.
+Para a utilização deste programa, você precisará das bibliotecas matplotlib e PyQt5 instaladas.
